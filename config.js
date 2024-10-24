@@ -147,11 +147,11 @@ const CONFIG = {
 					link: 'https://www.inaturalist.org/home',
 				},
 				{
-					name: 'uc',
+					name: 'uc app',
 					link: 'https://apply.universityofcalifornia.edu/my-application/login',
 				},
 				{
-					name: 'csu',
+					name: 'csu app',
 					link: 'https://calstate.liaisoncas.com/applicant-ux/#/login',
 				},
 			],
