@@ -187,42 +187,42 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'reddit',
+					link: 'https://www.reddit.com/',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'inaturalist',
+					link: 'https://www.inaturalist.org/home',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'uc',
+					link: 'https://apply.universityofcalifornia.edu/my-application/login',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'csu',
+					link: 'https://calstate.liaisoncas.com/applicant-ux/#/login',
 				},
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'tv',
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'youtube',
+					link: 'https://www.youtube.com/',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'kickass',
+					link: 'https://www1.kickassanime.mx/',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'twitch',
+					link: 'https://www.twitch.tv/',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'peacock',
+					link: 'https://www.peacocktv.com/watch/home',
 				},
 			],
 		},
