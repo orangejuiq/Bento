@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'coffee',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'reddit',
+					link: 'https://www.reddit.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'inaturalist',
+					link: 'https://www.inaturalist.org/home',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'uc',
+					link: 'https://apply.universityofcalifornia.edu/my-application/login',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'csu',
+					link: 'https://calstate.liaisoncas.com/applicant-ux/#/login',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'tv',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'youtube',
+					link: 'https://www.youtube.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'kickass',
+					link: 'https://www1.kickassanime.mx/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'twitch',
+					link: 'https://www.twitch.tv/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'peacock',
+					link: 'https://www.peacocktv.com/watch/home',
 				},
 			],
 		},
