@@ -147,12 +147,12 @@ const CONFIG = {
 					link: 'https://www.inaturalist.org/home',
 				},
 				{
-					name: 'uc',
-					link: 'https://apply.universityofcalifornia.edu/my-application/login',
+					name: 'uci',
+					link: 'https://shib.service.uci.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s2',
 				},
 				{
-					name: 'csu',
-					link: 'https://calstate.liaisoncas.com/applicant-ux/#/login',
+					name: 'dante cert',
+					link: 'https://ad8.au.auth0.com/login?state=hKFo2SBCMXB0Z21RRHVZemNzd2ZDZjFJamVoT1ZMOWhId2JuS6FupWxvZ2luo3RpZNkgYVN4Vm1LejZNRUt5cDJHYWIzYVZId09qVlp1bkFEcDKjY2lk2SBzUkxkdDBEd3dQbms4TWlmSFl4aDBLUUhJSDdWN3VVTw&client=sRLdt0DwwPnk8MifHYxh0KQHIH7V7uUO&protocol=samlp&SAMLRequest=fZJta9swFIX%2FitF3v9RJbEckgbRhJCxtvSQtbF%2BGIt%2FUYnrxdKWm%2B%2FdT7A0y6AoCwdU599E93BkyJTu69K7VO%2FjpAV30pqRG2j%2FMibeaGoYCqWYKkDpO98v7Lc2TjHbWOMONJFeWjx0MEawTRpNos5qT78Am47IcVZNjMWbTIz9CWfAqP015PgFW8GKalZBPC1aR6BksBuechEbBjuhho9Ex7UIpyydxNo7z8SEb0XxEs%2BobiVZhGqGZ612tcx3SNGVNlTAfjmuzhBuV9oOmuNs2Lludz7X%2BUd2L0%2FrrW5t9%2FrLerMvn0j89kmj59%2B93RqNXYPdgXwWHp932qrtvLkRIHJOgnVQ4MITqJFxIqTKNl5B0bdeTUxzuPGYc%2B%2Br7LUhU%2F0n7VuggePk46OMgQro%2BHOq4ftwfyGJ24dA%2BOLt4nzJLrzWzYTkeQvfNqjZS8F%2FRJ2MVc%2F%2BH3yQ3fUU08amXUq%2BxAy5OApoQopTmfGchkOfEWQ8kXQzQf5dw8Rs%3D&RelayState=https%3A%2F%2Faudinate.talentlms.com%2Findex%2Fssologin%2Fservice%3Asaml',
 				},
 			],
 		},
